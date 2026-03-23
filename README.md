@@ -1,4 +1,3 @@
-<img width="89" height="24" alt="image" src="https://github.com/user-attachments/assets/6f2b81e7-d28a-4e2c-8cde-c5b32b12afaa" /># ARTI406 - Assignment-1
 # ARTI406 - Machine Learning - Assignment 1
 # Bank Transaction Fraud Detection - EDA
 
