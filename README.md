@@ -32,5 +32,5 @@ The purpose of this dataset is to analyze banking transaction behavior using Exp
 
 Through this analysis, we can better understand customer transaction habits, detect anomalies, and support the development of fraud detection systems.
 
-##Summary
+## Summary
 This dataset provides a structured view of banking transactions, including customer information, transaction details, and behavioral indicators. It is suitable for performing data cleaning, visualization, and extracting meaningful insights related to fraud detection.
