@@ -6,7 +6,7 @@ This dataset was obtained from Kaggle:
 https://www.kaggle.com/datasets/valakhorasani/bank-transaction-dataset-for-fraud-detection
 
 ## Number of Rows and Columns
-- Rows: ~2,513
+- Rows: ~2,511
 - Columns: ~16
 
 ## Features Description
