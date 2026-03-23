@@ -1,5 +1,5 @@
-# ARTI406 - Machine Learning - Assignment 1
-# Bank Transaction Fraud Detection - EDA
+# ARTI406 - Machine Learning - Assignment 1  
+## Bank Transaction Fraud Detection – Exploratory Data Analysis (EDA)
 
 ## Dataset Source
 This dataset was obtained from Kaggle:
