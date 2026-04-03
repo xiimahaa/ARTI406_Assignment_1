@@ -53,8 +53,8 @@ The working shift of the agent (e.g., morning, evening, night).
 Customer Satisfaction Score given by the customer after issue resolution.
 
 
-## Purpose of the Dataset
-The purpose of this dataset is to analyze customer satisfaction and identify key factors affecting customer service performance in e-commerce platforms.
+## Purpose of using this dataset
+The purpose of this dataset is to analyze customer satisfaction, explore trends and identify key factors affecting customer service performance in e-commerce platforms.
 
 ## Summary
 This dataset provides information about customer service interactions in an e-commerce platform, including customer issues, response times, and satisfaction scores. It helps in analyzing factors that affect customer satisfaction and service quality.
