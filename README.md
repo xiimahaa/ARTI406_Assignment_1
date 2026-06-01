@@ -1,5 +1,5 @@
-# ARTI406 - Machine Learning - Assignment 1  
-## eCommerce Customer Service Satisfaction – Exploratory Data Analysis (EDA)
+# ARTI406 - Machine Learning - Assignment 1 & 2
+## eCommerce Customer Service Satisfaction – Exploratory Data Analysis (EDA) & Data Quality Assessment & Preprocessing
 
 ## Dataset Source
 This dataset was obtained from Kaggle:
